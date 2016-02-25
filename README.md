@@ -11,7 +11,7 @@ Javascript
 Scrabble.score("cabbage")
 
 
-Your program should be in a file named `scrabble.js`.
+
 
 ## Letter Values
 
