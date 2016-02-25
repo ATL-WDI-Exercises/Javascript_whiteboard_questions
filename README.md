@@ -1,4 +1,7 @@
-avascript Whiteboard Questions.
+Javascript Whiteboard Questions.
+
+
+Answers to be written on the board.
 
 # Scrabble Score
 
