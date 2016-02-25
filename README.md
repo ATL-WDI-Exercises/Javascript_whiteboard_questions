@@ -7,12 +7,11 @@ Answers to be written on the board.
 
 Write a program that, given a word, computes the scrabble score for that word.
 
-```ruby
+Javascript
 Scrabble.score("cabbage")
-# => 14
-```
 
-Your program should be in a file named `scrabble.rb`.
+
+Your program should be in a file named `scrabble.js`.
 
 ## Letter Values
 
