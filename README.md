@@ -37,3 +37,20 @@ Q, Z                               10
 
 *The program should raise an error if the triangle cannot exist.
 
+
+#Wordy Addition
+Write a program that takes a word problem in the format:
+
+What is 5 plus 13?
+and returns the answer as an integer.
+
+The program should handle large numbers and negative numbers.
+
+Use the tests to drive your solution by deleting the skip in one test at a time.
+
+Extensions
+
+Modify your program to also handle problems of the type:
+What is 7 plus 9 plus 3?
+
+
